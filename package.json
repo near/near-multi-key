@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "allow signing with multiple keypairs to form one composite signature",
     "main": "index.js",
-    "author": "abacabadabacaba, mattlockyer <matt@near.org>",
+    "author": "NEAR Inc, abacabadabacaba, mattlockyer <matt@near.org>",
     "license": "GNU",
     "private": false,
     "dependencies": {
